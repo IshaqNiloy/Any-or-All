@@ -1,5 +1,5 @@
 # Any-or-All
-#HackerRank python problems
+HackerRank python problems
 
 any()
 This expression returns True if any element of the iterable is true.
